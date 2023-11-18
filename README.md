@@ -1,13 +1,13 @@
 # Introduction_to_AI
-Certainly! Here's an updated version of the README file that includes information about the model training and feature selection process:
 
+#Kindly Find the Demo Below:
+
+https://youtu.be/QO1cEH9yjO0
 ```
 # Churn Prediction App
 
 This is a simple web application that predicts customer churn using a pre-trained machine learning model. It allows users to input customer data and get predictions on whether a customer is likely to churn or stay.
 
-Kindly Find the Demo Below:
-https://youtu.be/QO1cEH9yjO0
 
 ## Getting Started
 
